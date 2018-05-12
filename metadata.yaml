@@ -1,0 +1,28 @@
+_repo: The-Incomparable-29th-and-the--River-Clyde-_25342
+_version: 0.1.0
+alternative_title: Incomparable Twenty-ninth and the "River Clyde"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Davidson, George
+    gutenberg_agent_id: '31263'
+    url: http://www.gutenberg.org/2009/agents/31263
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2008-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25342'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Medical care -- Great Britain'
+- !lcsh 'Great Britain. Army. Infantry Division, 29th -- History'
+title: The Incomparable 29th and the "River Clyde"
+url: http://www.gutenberg.org/ebooks/25342
