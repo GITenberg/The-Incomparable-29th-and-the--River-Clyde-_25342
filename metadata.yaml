@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31263'
     url: http://www.gutenberg.org/2009/agents/31263
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25342#The-Incomparable-29th-and-the--River-Clyde-
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2008-05-05'
 gutenberg_type: Text
